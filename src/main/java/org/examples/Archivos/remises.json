@@ -1,0 +1,29 @@
+[ {
+  "marca" : "Toyota",
+  "modelo" : "Etios",
+  "tipoCombustible" : "Gas",
+  "patente" : "AA234",
+  "estado" : "DISPONIBLE",
+  "tarifaCuadra" : 150.0
+}, {
+  "marca" : "Chevrolet",
+  "modelo" : "Corsa",
+  "tipoCombustible" : "Nafta",
+  "patente" : "AB321",
+  "estado" : "DISPONIBLE",
+  "tarifaCuadra" : 150.0
+}, {
+  "marca" : "VolksWagen",
+  "modelo" : "Suran",
+  "tipoCombustible" : "Gas",
+  "patente" : "BA598",
+  "estado" : "DISPONIBLE",
+  "tarifaCuadra" : 150.0
+}, {
+  "marca" : "Fiat",
+  "modelo" : "Siena",
+  "tipoCombustible" : "Nafta",
+  "patente" : "BA874",
+  "estado" : "DISPONIBLE",
+  "tarifaCuadra" : 150.0
+} ]

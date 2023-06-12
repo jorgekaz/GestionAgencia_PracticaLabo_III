@@ -1,0 +1,37 @@
+[ {
+  "marca" : "Renault",
+  "modelo" : "Logan",
+  "tipoCombustible" : "Gas",
+  "patente" : "AA234",
+  "estado" : "DISPONIBLE",
+  "contadorKilometros" : 0.0,
+  "bajadaBandera" : 600.0,
+  "precioKilometro" : 100.0
+}, {
+  "marca" : "Chevrolet",
+  "modelo" : "Corsa",
+  "tipoCombustible" : "Nafta",
+  "patente" : "AB321",
+  "estado" : "DISPONIBLE",
+  "contadorKilometros" : 0.0,
+  "bajadaBandera" : 600.0,
+  "precioKilometro" : 100.0
+}, {
+  "marca" : "Chevrolet",
+  "modelo" : "Corsa",
+  "tipoCombustible" : "Gas",
+  "patente" : "BA598",
+  "estado" : "DISPONIBLE",
+  "contadorKilometros" : 0.0,
+  "bajadaBandera" : 600.0,
+  "precioKilometro" : 100.0
+}, {
+  "marca" : "Lamborghini",
+  "modelo" : "Huracán",
+  "tipoCombustible" : "Nafta",
+  "patente" : "BA874",
+  "estado" : "DISPONIBLE",
+  "contadorKilometros" : 0.0,
+  "bajadaBandera" : 1000.0,
+  "precioKilometro" : 600.0
+} ]
